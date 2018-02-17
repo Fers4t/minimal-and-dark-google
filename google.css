@@ -1,0 +1,211 @@
+@-moz-document regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?."), regexp("https?://www.google.(com|([a-z]{2}))(.[a-z]{2})?/((\\?|webhp|search|gfe_rd|auth|gws_rd|#q|imghp|#gfe_rd|#safe|#pws|#tbs|#gws|#tbm).*)"), regexp("https?://encrypted.google.(com|([a-z]{2}))(.[a-z]{2})?/((\\?|webhp|search|gfe_rd|auth|gws_rd|#q|imghp|#gfe_rd|#safe|#pws|#tbs|#gws|#tbm).*)"), regexp("https?://encrypted.google.(com|([a-z]{2}))(.[a-z]{2})?.")
+{
+
+
+/*		Minimal and Dark Google v1.0	 */
+/*   	Coded by Fers4t's Mountain	 	 */
+/*  You can use my codes with reference  */
+/*             fers4t.org 				 */
+/*    contact:fertagram@gmail.com  		 */
+
+
+#gsr,
+.sfbgg,
+._Fmb,
+.ab_button,
+div,
+.hdtbna, 
+.notl,
+.dw-sbi{
+    background: #2f3640 !important;
+}
+
+#lga,
+#gbw > div > div > div.gb_le.gb_R.gb_Hg.gb_xg > div:nth-child(3),
+#_eEe,
+#fbar,
+#gbwa,
+._bMq,
+.iraXg6_wl1mE-_UwgkgYBDrI,
+.hdtb-dd-b,
+#extabar,
+#extrares,
+#_fZl,
+#gs_st0,
+#tsf > div.tsf-p > div.jsb > center > input[type="submit"]:nth-child(1),
+#tsf > div.tsf-p > div.jsb > center > input[type="submit"]:nth-child(2),
+#gb,
+#logocont > a > img, /* Google Logosu. Özellikle img'e kadar inerek kendi logomu koymayı sağladım */
+  .sbsb_b,
+#hdtb-msb-vis > div:nth-child(5),
+#hdtb-msb-vis > div:nth-child(4),
+#rhs_block,
+.csb,
+.vk_ard,
+.vk_aru, 
+#tvcap,
+div > .fl, /* bu sayfanın çevirisini yap bölümü */ 
+#tsf > div.tsf-p > div.jsb > center, /* anasayfa butonları */
+#imagebox_bigimages > g-section-with-header, /* isim yazınca çıkan fotoğraflar */
+#rso > div:nth-child(1) > div > g-section-with-header, /* haberler */
+#rso > div:nth-child(3) > div > g-section-with-header, /* haberler 3 */
+#rso > div:nth-child(2) > div > g-section-with-header, /* haberler 2 */
+.osl /* bazı linklerin altında çıkan gereksiz boşluk */
+  {
+    display: none !important;
+  }
+
+  #sb_ifc0
+  {
+ /* Arama Kutusu / Search Box */
+    background-color: #4d5765 !important;
+    position: relative;
+ /* Arama kutusunun en üstte, logonun da üstünde görünmesi için */;
+  }
+
+  #lst-ib,
+.spell,
+.spell_orig,
+.rtng,
+span,
+._wD ._Xbe,
+#taw > div:nth-child(3) > div > div.std.stp.card-section
+  {
+    color: #718093 !important;
+  }
+
+  .gb_Hc .gb_Oc.gb_Oc
+  {
+    background-color: #dcdde1 !important;
+    color: #000 !important;
+  }
+
+  #gs_ok0
+  {
+    background-color: white !important;
+  }
+
+  .s .st em, .st.s.std em, /* site açıklamaları anahtar kelime */
+a._VJq,
+a._VJq:visited,
+#rso > div:nth-child(1) > div > div.kp-blk._Z7._Rqb._RJe > div > div._OKe > div:nth-child(2) > div.mod > div > div._zXc > b
+  {
+    color: #376c8f !important;
+  }
+
+  .st, /* site açıklamaları */
+._AXc
+  {
+    color: #949494 !important;
+  }
+
+  a.fl:link, a.fl:link, .fl a, .flt, a.flt, .gl a:link, a.mblink, .mblink b, .dw-sb-cont,
+.dw-sbi, strong
+  {
+    color: #848484 !important;
+  }
+
+  .mblink:visited, a:visited, #taw > div:nth-child(3) > div > div.std.stp.card-section > a:nth-child(1), #taw > div:nth-child(3) > div > div.std.stp.card-section > a:nth-child(2)
+  {
+    color: #636e72 !important;
+  }
+
+  .spell_orig:link
+  {
+    color: #0fa23e !important;
+  }
+
+  ._Rm,
+._tX
+  {
+    color: #1d843e !important;
+  }
+
+  a:link,
+#brs > g-section-with-header > div._ojo > h3, ._zft, ._UPt
+  {
+    color: #d3d3d3 !important;
+  }
+
+  .fl
+  {
+ /* en alttaki sayfa navigasyonu */
+    padding-left: 10px !important;
+    font-size: 15px !important;
+  }
+
+  .cur
+  {
+ /* navigasyonda current page */
+    color: #d3d3d3 !important;
+    font-size: 20px !important;
+    padding-left: 10px !important;
+  }
+
+  #pnnext > span
+  {
+    font-size: 15px !important;
+  }
+
+  div
+  {
+    text-transform: lowercase !important;
+  }
+
+  #hdtb
+  {
+    border-bottom: 0 !important;
+  }
+
+  ._qxg .exp-txt-c
+  {
+    left: 0 !important;
+  }
+
+  .dw-sb-cont .dw-sbi,  .dw-sb-btn
+  {
+    border: 0.5px solid #505050 !important;
+  }
+
+  #logocont > a
+  {
+    display: block;
+ /* Just Search Logosu */
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background: url(https://cdn.pbrd.co/images/H7bTbXZ.png) no-repeat !important;
+    width: 100px;
+    height: 37px;
+    margin-top: 3px;
+    margin-left: 35px;
+    position: absolute;
+ /* Logonun search box'un üstüne çıkmaması için */
+}
+
+#res { /* arama sonuçları listesi */
+padding:0 !important
+}
+
+.ksb, ._oMb, ._pMb { /* hava durumu sonuçlarındaki rüzgar, yağış vs butonları */
+    margin-left: 1px !important;
+	color: #878787 !important;
+}
+.ksb:active, .ksb:hover  {
+	color: white !important 
+}
+
+.sq { /* görseller bölümünde üstte çıkan kutuların yazı rengi */
+    color: #2f3640 !important
+}
+
+._rl /* mekan isimleri */ { 
+    color: #718093 !important;
+}
+
+._M4k { /* mekan isimlerinin borderı */
+    border: 1px solid #718093 !important
+}
+._qJg {
+	border-top: 1px solid #718093 !important
+}
+}
